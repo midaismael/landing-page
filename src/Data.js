@@ -34,6 +34,38 @@ const Data = {
             title:'Easy to customize',
             text:'Question Marks and devious Semikoli, but the Little Blind Text didnt listen. She packed her seven versalia.'
         }
+    ],
+    pricing : [
+        {
+            title:'Econmy',
+            price:'$9.90',
+            time:'BILLING PER MONTH',
+            Bandwidth:'1GB',
+            Onlinespace:'50MB',
+            Support:'No',
+            Domin:'1',
+            Hiddenfees: 'No'
+        },
+        {
+            title:'DELUXE',
+            price:'$19.90',
+            time:'BILLING PER MONTH',
+            Bandwidth:'10GB',
+            Onlinespace:'500MB',
+            Support:'No',
+            Domin:'10',
+            Hiddenfees: 'No'
+        },
+        {
+            title:'ULTIMATE',
+            price:'$29.90',
+            time:'BILLING PER MONTH',
+            Bandwidth:'100GB',
+            Onlinespace:'2GB',
+            Support:'Yes',
+            Domin:'Unlimited',
+            Hiddenfees: 'No'
+        },
     ]
 }
 export default Data;
