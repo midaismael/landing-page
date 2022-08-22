@@ -8,7 +8,7 @@
     overflow: hidden;
 }
 .services .row{
-    margin: 25px 0px;
+    margin: 35px 0px;
 }
 .services h2{
     color: #000;
@@ -63,4 +63,41 @@
     border-radius: 50%;
     padding: 10px;
     transition: .5s ease-in;
+}
+.services .lastserv{
+    margin-top: 70px;
+    text-align: left;
+}
+.services .lastserv h3{
+    color: #000;
+    font-size: 25px;
+    line-height: 40px;
+    font-weight: bold;
+} 
+.services .lastserv p{
+    color: #777;
+    font-size: 15px;
+    margin: 15px 0px;
+}
+.services .lastserv ul{
+    
+    padding: 0px;
+    margin: 20px;
+}
+.services .lastserv ul li{
+    list-style-type: disc;
+    margin: 7px 0px;
+    color: #777;
+    font-size: 16px;
+}
+.services .lastserv button{
+    color: #fff;
+    background-color: #fb3e3e;
+    border: 1px solid #fb3e3e;
+    width: 140px;
+    height: 40px;
+    text-align: center;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin: 15px 0px;
 }
